@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 const firebirdConfig = {
     host: '85.215.109.213',
     port: 3050,
-    database: 'D:\\Microsip datos\\GUIMARTEST.FDB',
+    database: 'D:\\Microsip datos\\GUIMAR.FDB',
     user: 'SYSDBA',
     password: 'BlueMamut$23',
     lowercase_keys: false,
